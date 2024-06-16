@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+html body {
+  height: 100%;
+  overflow: hidden;
+  display: grid;
+  color: white;
+  background: black;
+}/*# sourceMappingURL=style.css.map */
